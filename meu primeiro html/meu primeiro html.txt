@@ -1,0 +1,96 @@
+html>
+    <head>
+        
+    </head>
+    <body>
+      <title>Meu primeiro HTML</title>
+       <h1>O Que É HTML E Para Que Serve?</h1>
+          <hr/>
+           <ul>
+            <li><strong><u>O que é HTML? </li></u></strong>
+            <li><strong><u>Como a linguagem HTML funciona?</li></u></strong>
+            <li><strong><u> O que são tags, elementos e atributos de HTML?</li></u></strong>
+            <li><strong><u>Referencias</li></u></strong>
+           </ul>
+             <h1><strong><u>O que é HTML?</h1></u></strong>
+             <P>Para definir o que é HTML, é preciso entender a sigla primeiro. Ela significa Hyper Text Markup Language, ou seja, linguagem de marcação de hipertexto.
+
+              Trata-se de uma linguagem de marcação para desenvolver páginas e documentos eletrônicos para a internet, fornecendo informações para usuários, navegadores e mecanismos de busca.
+              
+              <strong><u>O HTML é usado em:</strong></u>
+              <ul>
+               
+              <li>desenvolvimento frontend, ou seja, na parte visual das aplicações web;</li>
+              <li>desenvolvimento de aplicativos mobile, tanto para Android como para iOS;</li>
+              <li>desenvolvimento de jogos.</li>
+              </ul>
+              Também é importante entender que ele não é uma linguagem de programação, já que seu objetivo não é criar um software, e, sim, marcar a estrutura de linguagens de programação de fato, como o Javascript. Ou seja, ele indica onde os elementos aparecerão na aplicação.
+              Ainda assim, de maneira similar a linguagens de programação, ele possui sintaxe e palavras reservadas. Entenda mais a seguir!</P>
+
+              <h1><strong><u>Como a linguagem HTML funciona?</h1></u></strong>
+              <p>Com o HTML, é possível definir a estrutura, o posicionamento dos elementos, a divisão de uma página em blocos visuais e combinar texto, imagens e vídeos para aplicações web. 
+
+                Essa linguagem é o componente mais importante de qualquer site, já que sem ela os outros elementos adicionados com programação, como a ação resultante de clicar em um botão, não têm encaixe.
+                
+                O HTML é dividido em tags, elementos e atributos que indicam coisas para o navegador interpretar e renderizar o site visualmente. É somente assim que os usuários podem visualizar qualquer informação, escrita ou visual, em algum site.
+                
+                <strong><u>Existem quatro aplicações para o que é HTML:</strong></u>
+                <o></o>
+                <li>hospedagem e acesso;</li>
+                <li>mecanismos de busca;</li>
+                <li>SEO;</li>
+                <li>semântica.</li>
+                </o>
+                Entenda melhor cada uma delas!</p>
+                <o>
+                  <li><strong><u>Hospedagem e acesso:</li></strong></u>
+                  <p>Para um site receber acessos, ele precisa ser hospedado em um servidor. Esse é o momento em que os arquivos HTML são transferidos para uma máquina específica, cuja responsabilidade é responder às solicitações de acesso na rede.
+
+                    Por exemplo, ao digitar a URL de qualquer site, você envia uma mensagem ao servidor que o hospeda e, quando consegue conexão com ele, você recebe os arquivos contendo a estrutura, as páginas e todos os componentes de acordo com o HTML</p>
+                </o>
+                <o>
+                  <li><strong><u>Mecanismos de busca:</li></strong></u>
+                  <p>Quando buscamos um termo na internet, ele aparece com um título principal e uma pequena descrição do conteúdo. Essas informações são fornecidas ao mecanismo de busca através de o que é HTML na página, o que permite que os usuários encontrem os sites corretos.
+
+                    Ou seja, o título da página só é compreendido durante a busca porque há uma marcação no HTML indicando que é isso que ele é, o que também serve para todo resto do conteúdo.</p>
+                </o>
+                <o>
+                  <li><strong><u>SEO:</li></strong></u>
+                  <p>SEO é a sigla para Search Engine Optimization, ou seja, otimização para mecanismos de busca. Isso se dá por meio de diversas estratégias, como utilizar palavras-chave, que buscam posicionar o site melhor nos resultados de busca que usuários realizam no Google.
+
+                    Os marcadores do HTML são essenciais para o sucesso dessas ações, já que são eles que informam os mecanismos de busca sobre a estrutura do página.</p>
+                </o>
+                <o>
+                  <li><strong><u>Semantica:</li></strong></u>
+                  <p>A aplicação do HTML na semântica significa que cada componente da página terá seu significado específico. Além de permitir que mecanismos de busca entendam o site, isso também auxilia leitores de tela e faz parte da acessibilidade.
+
+                    Por exemplo, uma imagem carrega a tag específica (indicada como img no HTML), e é graças a ela que o leitor de tela sabe que há uma figura na página.</p>
+                </o>
+                <h1>O que são Tags, Elementos e Atributos de HTML?</h1>
+                <h3><strong><u>TAGS</h3></strong></u>
+                <p>As tags são o rótulo que indica a função de cada conteúdo. Elas são escritas entre os símbolos “<” e “>”. A depender da sua função e objetivo, elas podem ou não acompanhar uma tag de fechamento, em que se adiciona o caractere “/” à tag após o final do conteúdo.
+                  A tag de fechamento é utilizada de acordo com a obrigatoriedade do conteúdo; a tag de imagem , por exemplo, não requer fechamento, enquanto a tag de formulário  sim.</p>
+                    <h3><strong><u>Elementos</h3></strong></u>
+                    <p>No HTML, os elementos são os itens presentes em uma página. Podem ser uma imagem, um parágrafo, um formulário, um link, ou diversos outros recursos. Eles são representados pelas tags e são divididos em duas categorias:</p>
+                    <ul>
+                      <li>elementos de bloco, ou seja, aqueles que aparecem sozinhos na estruturação por receberem uma linha antes e após a exibição do conteúdo.
+                      <li>elementos inline, que ocupam o espaço correspondente ao que será inserido na página.</li>
+
+                    </ul>
+                    <h3><strong><u>Atributos</h3></strong></u>
+                    <p>Os atributos representam características e funcionalidades de cada elemento e pertencem às tags dentro de o que é HTML. Um exemplo comum é o atributo alt de uma imagem, que permite adicionar um texto alternativo a uma figura, importante para acessibilidade, erros de carregamento e estratégias de SEO.
+
+                      <strong><u>Existem dois tipos de atributos:</p></strong></u>
+                      <ul>
+                        <li>atributos globais, que podem ser usados de forma igual para todos os elementos do HTML, como id ou style;</li>
+                        <li>atributos específicos, que só estão disponíveis para certos elementos, como o atributo alt só está para o elemento.</li>
+
+                      </ul>
+                      <h3><strong><u>Referencias</h3></strong></u>
+                    <a href=>"https://br.godaddy.com/blog/o-que-e-html-e-para-que-serve/"</a>
+
+                      
+                    
+    </body> 
+
+</html>
